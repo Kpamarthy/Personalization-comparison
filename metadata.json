@@ -1,0 +1,5 @@
+{
+  "name": "Personalized Shopping Comparison",
+  "description": "Compare a standard shopping assistant with a personalized one, featuring an autonomous 'Shopping Concierge' mode with background agents.",
+  "requestFramePermissions": []
+}
